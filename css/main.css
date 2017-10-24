@@ -1,0 +1,76 @@
+/*setear mi css*/
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #303030;
+  font-family: 'Raleway', sans-serif;
+}
+ /* clases reutilizables*/
+ .tex-uppercase {
+   text-transform: uppercase;
+
+ }
+ /*clases especificas*/
+ li a {
+   text-decoration: none;
+   color: inherit;
+ }
+ li {
+   list-style: none;
+ }
+.logo-header {
+  width: 200px;
+}
+nav {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+header
+
+}
+.box-header{
+  display: inline block;
+}
+.logo-square {
+  width: 100px;
+}
+section{
+  text-align: center;
+}
+
+div {
+  display: inline-block;
+  width: 33%;
+  padding: 2px;
+  box-sizing: border-box;
+
+}
+[class^="icon-"], [class*=" icon-"] {
+  font-size: 40px;
+}
+
+li :hover[class^="icon-"]:hover, [class*=" icon-"] {
+color: #ffffff;
+transition: 5s; */se demore en pintarse*/
+
+footer {
+  background-color: #303030;
+  color: #ffffff;
+  padding: 5px;
+  text-align: center;
+
+}
+.btn{
+  background:#db964a;
+  border: none;
+  border-radius:5px ;
+  font-family:inherit ;
+  color:#ffffff;
+  padding: 10px;
+
+
+
+}
